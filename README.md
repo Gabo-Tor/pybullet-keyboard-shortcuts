@@ -17,6 +17,7 @@ Im a user of Pybullet and this is the list I was able to compile through my own 
 | Toggle ligths and shadows                   |  s | press s to toggle lights and shadows  |
 | Toggle faces                                |  v | press v to toggle visualization of all the simulation  |
 | Profile dumping                             |  p | press p to for profile dumping, prints thread usage(? |
+| Exit app                                    |  Esc | press Esc to exit the simulator |
 | Toggle image dump Physics Server            |  F1| press F1 to toggle image dump Physics Server (saves screenshots of the simulator to the /home directory continuously) |
 | Move object                                 |  click + drag | click on an object within the simulation to apply a force |
 | Rotate view                                 |  Ctrl + drag | When holding the Alt or Control key, you have Maya style camera mouse control |
