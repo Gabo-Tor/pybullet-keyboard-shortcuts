@@ -1,7 +1,7 @@
 # pybullet-keyboard-shortcuts
 PyBullet keyboard shortcut/ hotkeys list
 I have found no hotkeys list anywhere in the web, hope that at some point i can add it to the official quiskstart guide
-Im a user of Pybullet and this is the list I was able to compile through my own reasearch and different forum posts, all of these have been tested and work in current versions of pybullet, I'm yet to find the lines of code in the Bullet sourcecode where this keys are parsed
+Im a user of Pybullet and this is the list I was able to compile reading the sourcecode where this keys are parsed, different forum posts and experimenting, all of these have been tested and work in current versions of pybullet unless noted. 
 
 
  ## Hotkeys list
@@ -36,3 +36,4 @@ Im a user of Pybullet and this is the list I was able to compile through my own 
 - [PyBullet Quickstart Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
 - [Web Page](https://pybullet.org/wordpress/)
 - [Bullet source code](https://github.com/bulletphysics/bullet3)
+- [File where keys are parsed](https://github.com/bulletphysics/bullet3/blob/5ae9a15ecac7bc7e71f1ec1b544a55135d7d7e32/examples/ExampleBrowser/OpenGLExampleBrowser.cpp)
