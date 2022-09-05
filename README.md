@@ -12,7 +12,7 @@ I am a user of Pybullet and this is the list I was able to compile reading the s
 | Show collision boxes                        |  a | Press a with wireframe rendering activated to show axis-aligned bounding box (AABB) |
 | Visualize the constraint frames             |  c | Press c with wireframe rendering activated to visualize collisions(contact points) |
 | Toggle auto-deactivation of the simulation  |  d* | Press d to toggle auto-deactivation of the simulation |
-| Open/close the search, test and params tabs |  g | Press g to toggle all tabs an menus|
+| Open/close the search, test and params tabs |  g | Press g to toggle all tabs and menus|
 | Suspend/restart physics simulation          |  i* | Press i to pause simulation |
 | Show links and joints frames as RGB lines   |  j | Press j with wireframe rendering activated to show links and joints frames as RGB lines |
 | Show joint axes as a black line             |  k | Press k with wireframe rendering activated to show constraints (joint axes) |
