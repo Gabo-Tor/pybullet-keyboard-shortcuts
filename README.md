@@ -38,6 +38,7 @@ I am a user of Pybullet and this is the list I was able to compile reading the s
 Opening issues and pull requests are welcome to fix bugs and to extend this cheat sheet.
 
 ## Useful links
+- [Hotkey Guide with images](https://medium.com/geekculture/must-know-shortcut-keys-while-working-in-pybullet-ff614267fc69)
 - [PyBullet Quickstart Guide](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
 - [Web Page](https://pybullet.org/wordpress/)
 - [Bullet source code](https://github.com/bulletphysics/bullet3)
