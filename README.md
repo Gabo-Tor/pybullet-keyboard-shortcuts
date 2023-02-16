@@ -1,4 +1,4 @@
-# pybullet-keyboard-shortcuts
+# pybullet keyboard shortcuts
 PyBullet keyboard shortcut/hotkeys list
 
 I have found no hotkeys list anywhere in the web, hope that at some point i can add it to the official quiskstart guide.
