@@ -34,7 +34,7 @@ I am a user of Pybullet and this is the list I was able to compile reading the s
 | Save a 'testFile.bullet'                    |  F3* | Press F3 key in most of the Bullet examples to save a 'testFile.bullet' |
 
 
-*Migth have no effect on some simulations
+*Might have no effect on some simulations
 
 ## Contributing
 Opening issues and pull requests are welcome to fix bugs and to extend this cheat sheet.
